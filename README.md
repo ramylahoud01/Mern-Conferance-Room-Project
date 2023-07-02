@@ -26,7 +26,7 @@ If you click on the "View" button, you will be able to see all the fields of the
 
 # New Interview :
 
-Once you click on "New Interview," a pop-up dialog will appear.
+Once you click on "New Interview", a pop-up dialog will appear.
 ![Screenshot 2023-07-02 193840](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/5d5e4b7e-fe03-4da5-aeb9-cf93488a0f8f)
 
 After filling out all the required fields in the form, the new interview will be successfully added.
@@ -34,3 +34,42 @@ After filling out all the required fields in the form, the new interview will be
 
 Upon successful addition of the interview, you can see that it has been added at the top of the list since it has the lowest date.
 ![pic4](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/f26002c9-5048-4661-b540-48d21e514b7e)
+
+After successfully adding the interview, you will see the total number of interviews updated, along with the remaining time for the interview.
+![pic6](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/fa0ac081-08d2-4eaa-a367-ee28c303f344)
+If you try to submit an empty form, an error message will appear to notify you that the form cannot be submitted without filling in the required fields.
+![Screenshot 2023-07-02 195120](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/c36854e3-b489-49c4-a7a3-f4bac53e180a)
+
+
+# Delete Interview :
+Once you click on "Delete Interview", a pop-up dialog will appear.
+![Screenshot 2023-07-02 195311](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/f76a76d1-eed7-45a4-9597-3fe9ec91cefc)
+
+To delete an interview, simply enter the interview ID and click on the "Delete" button.
+
+
+# View Interview :
+Once you click on "View Interview," the "View Interview" button is replaced by an input field where you can enter the ID of the interview you wish to view.
+![Screenshot 2023-07-02 201215](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/a3cb80e3-9bc6-4775-97c7-98c373a02249)
+
+
+To View an interview, simply enter the interview ID and click on the "View" button.
+Once you clicked, a pop-up dialog will appear.
+![Screenshot 2023-07-02 201420](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/2212dd1e-3da0-404d-ab52-d94497e33e63)
+
+
+
+# Update Interview :
+Once you click on "Update Interview," the "Update Interview" button is replaced by an input field where you can enter the ID of the interview you wish to Update.
+![Screenshot 2023-07-02 201611](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/38e323eb-06d2-4b18-b8cf-8236aae61300)
+
+To Update an interview, simply enter the interview ID and click on the "Update" button.
+Once you click, a pop-up dialog will appear, displaying the existing fields of the interview you want to update.
+
+![Screenshot 2023-07-02 201749](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/3db0dd37-30ce-46fe-bba7-788a79c39d72)
+
+# Clear All Interview :
+Once you click on "Clear All Interviews," a pop-up dialog will appear, prompting you to confirm if you are sure you want to delete all interviews.
+
+![Screenshot 2023-07-02 202125](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/41eac378-60ce-42c5-bdb2-e4e5e558728b)
+
