@@ -73,3 +73,17 @@ Once you click on "Clear All Interviews," a pop-up dialog will appear, prompting
 
 ![Screenshot 2023-07-02 202125](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/41eac378-60ce-42c5-bdb2-e4e5e558728b)
 
+
+## Troubleshooting
+### Installation Issues
+
+If you encounter issues during the installation process, such as slow package resolution or timeouts, it is recommended to use Yarn instead of npm. Yarn often provides better performance and reliability when dealing with large dependency trees.
+
+To install the project dependencies using Yarn, run the following command:
+
+npm config set proxy null,
+npm config set https-proxy null,
+npm config set registry https://registry.yarnpkg.com/,
+npm install -g yarn,
+Once Yarn is installed, navigate to your project directory and run yarn install instead of npm install
+
