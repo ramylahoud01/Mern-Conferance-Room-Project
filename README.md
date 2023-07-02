@@ -25,3 +25,12 @@ If you click on the "View" button, you will be able to see all the fields of the
 ![Screenshot 2023-07-02 193546](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/28f2805f-f70e-4a57-bb33-3cd4d8cfa144)
 
 # New Interview :
+
+Once you click on "New Interview," a pop-up dialog will appear.
+![Screenshot 2023-07-02 193840](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/5d5e4b7e-fe03-4da5-aeb9-cf93488a0f8f)
+
+After filling out all the required fields in the form, the new interview will be successfully added.
+![Screenshot 2023-07-02 194323](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/163e1488-5046-4c4a-bcac-6c93fb49b317)
+
+Upon successful addition of the interview, you can see that it has been added at the top of the list since it has the lowest date.
+![pic4](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/f26002c9-5048-4661-b540-48d21e514b7e)
