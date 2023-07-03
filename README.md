@@ -9,11 +9,11 @@ Please take a look at the images below to get a better understanding.
 ![Screenshot 2023-07-02 192014](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/4075033a-810d-4b93-aa88-be3a4eba7180)
 
 # Drawer :
-This drawer provides access to all interviews and allows you to view, create, update, delete ,clear All interviews.
+This drawer grants access to various interview-related actions, including viewing, creating, updating, deleting, and clearing all interviews.
 ![Screenshot 2023-07-02 192152](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/cbc24999-0e16-4050-aa9e-39ea3dd5e0bc)
 
 # View Interviews :
-Once you click on "View Interviews," all available interviews will be displayed within our table.
+When you click on "View Interviews," a table will appear showing all the available interviews for your reference and review.
 
 ![Screenshot 2023-07-02 192917](https://github.com/ramylahoud01/Mern-Conferance-Room-Project/assets/116891890/9298fbc2-16ab-474a-9f61-50a0fefaf7d3)
 
